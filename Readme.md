@@ -23,16 +23,17 @@ Follow the steps below to set up and run the system locally:
 7. After importing, open the system in your browser: localhost/smart-library/landing.php
 8. To view existing sample users, check the users table in the database.
 
-**# Note: All users in the table are example accounts for testing purposes.**
+** Note: All users in the table are example accounts for testing purposes.**
 
-**Admin Account Credentials**
+**Admin Account Credentials:**
+
 Use the following account to access the admin features:
 
 Email: jophet2344
+
 Password: P@ssword2344
 
-Notes
-
+**NOTE:*
 This system is intended for educational purposes only.
 
 User accounts included in the database are sample data.
